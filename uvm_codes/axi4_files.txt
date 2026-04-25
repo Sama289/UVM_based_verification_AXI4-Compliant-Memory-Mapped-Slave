@@ -1,0 +1,13 @@
+axi4_test.sv
+axi4_env.sv
+axi4_agent.sv
+
+axi4_scoreboard.sv
+axi4_coverage.sv
+
+axi4_sequencer.sv
+axi4_driver.sv
+axi4_monitor.sv
+
+axi4_sequences.sv
+axi4_sequence_items.sv

@@ -1,0 +1,273 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/QuestaSim/examples
+T_opt
+!s11d axi4_uvm_pkg D:/IC_2025/Hassan_Verification_2025_R1/AXI4_UVM/AXI4_UVM_Code/sim/work 1 axi4_uvm_bfm 1 D:/IC_2025/Hassan_Verification_2025_R1/AXI4_UVM/AXI4_UVM_Code/sim/work 
+!s110 1777094702
+VK[d>YXehK@A<RW<_EVFEK1
+04 8 4 work axi4_top fast 0
+=1-8c1645ed4654-69ec502d-14e-4c7c
+!s124 OEM100
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2021.1;73
+vaxi4
+Z2 !s110 1777094698
+!i10b 1
+!s100 LJH?X48ah@8JOQ<eT3iEE2
+IMLnQND]V<cWXlQ;QGik>P3
+Z3 dD:/IC_2025/Hassan_Verification_2025_R1/AXI4_UVM/AXI4_UVM_Code/sim
+w1775693137
+8../Design_Codes/axi4.v
+F../Design_Codes/axi4.v
+!i122 24
+L0 1 298
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z6 !s108 1777094698.000000
+Z7 !s107 ../uvm_codes/axi4_test.sv|../uvm_codes/axi4_env.sv|../uvm_codes/axi4_coverage.sv|../uvm_codes/axi4_scoreboard.sv|../uvm_codes/axi4_agent.sv|../uvm_codes/axi4_monitor.sv|../uvm_codes/axi4_driver.sv|../uvm_codes/axi4_sequencer.sv|../uvm_codes/axi4_sequences.sv|../uvm_codes/axi4_sequence_items.sv|../uvm_codes/common_cfg_class.sv|D:/QuestaSim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_deprecated_defines.svh|D:/QuestaSim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_reg_defines.svh|D:/QuestaSim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_callback_defines.svh|D:/QuestaSim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_sequence_defines.svh|D:/QuestaSim/uvm-1.1d/../verilog_src/uvm-1.1d/src/tlm1/uvm_tlm_imps.svh|D:/QuestaSim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_tlm_defines.svh|D:/QuestaSim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_printer_defines.svh|D:/QuestaSim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_object_defines.svh|D:/QuestaSim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_phase_defines.svh|D:/QuestaSim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_message_defines.svh|D:/QuestaSim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_version_defines.svh|D:/QuestaSim/uvm-1.1d/../verilog_src/uvm-1.1d/src/uvm_macros.svh|../uvm_codes/axi4_top.sv|../uvm_codes/axi4_sva.sv|../uvm_codes/axi4_bfm.sv|../uvm_codes/axi4_uvm_pkg.sv|../uvm_codes/enum_package.sv|../Design_Codes/axi_memory.v|../Design_Codes/axi4.v|
+Z8 !s90 -reportprogress|300|+incdir+../uvm_codes|-f|axi4_files.txt|
+!i113 0
+Z9 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z10 !s92 +incdir+../uvm_codes -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+Xaxi4_enum
+Z11 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+R2
+!i10b 1
+!s100 4>F=i[B7m_:jYg[LFWOjN0
+Ij9n4UP9JSIk`MU1E]DXO^0
+S1
+R3
+w1775693164
+8../uvm_codes/enum_package.sv
+F../uvm_codes/enum_package.sv
+!i122 24
+Z12 L0 1 0
+Vj9n4UP9JSIk`MU1E]DXO^0
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R10
+R1
+vaxi4_memory
+R2
+!i10b 1
+!s100 0hEc>=kDIdbC=S`FUd;aQ3
+Ii8g1I3f@oiJzU^9m[H]WN2
+R3
+w1775693077
+8../Design_Codes/axi_memory.v
+F../Design_Codes/axi_memory.v
+!i122 24
+L0 1 42
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R10
+R1
+vaxi4_sva
+R11
+R2
+!i10b 1
+!s100 8g9jjR9jSI;;7jNnEmO3N2
+Im>@NGzC?91W8zimU>n9nQ3
+S1
+R3
+w1776068023
+8../uvm_codes/axi4_sva.sv
+F../uvm_codes/axi4_sva.sv
+!i122 24
+L0 1 308
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R10
+R1
+vaxi4_top
+R11
+R11
+Z13 DXx6 mtiUvm 7 uvm_pkg 0 22 8V[`8]Q0W57le7Z>zYaAj1
+Z14 DXx4 work 9 axi4_enum 0 22 j9n4UP9JSIk`MU1E]DXO^0
+Z15 DXx4 work 12 axi4_uvm_pkg 0 22 L0?966Gb0No]]>Y=za;mA0
+DXx4 work 16 axi4_top_sv_unit 0 22 C69A9gEWP>:`^Xk^^7mhe0
+R2
+R4
+r1
+!s85 0
+!i10b 1
+!s100 2AzfBhd<Lnn954Q0;`k7A0
+IIJ0EjGjf;dddkOjSF];8H0
+!s105 axi4_top_sv_unit
+S1
+R3
+Z16 w1776065550
+Z17 8../uvm_codes/axi4_top.sv
+Z18 F../uvm_codes/axi4_top.sv
+!i122 24
+L0 7 78
+R5
+31
+R6
+R7
+R8
+!i113 0
+R9
+R10
+R1
+Xaxi4_top_sv_unit
+R11
+R11
+R13
+R14
+R15
+R2
+VC69A9gEWP>:`^Xk^^7mhe0
+r1
+!s85 0
+!i10b 1
+!s100 UI>9ANFMYJ^IYJQ4AibeJ1
+IC69A9gEWP>:`^Xk^^7mhe0
+!i103 1
+S1
+R3
+R16
+R17
+R18
+Z19 FD:/QuestaSim/uvm-1.1d/../verilog_src/uvm-1.1d/src/uvm_macros.svh
+Z20 FD:/QuestaSim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_version_defines.svh
+Z21 FD:/QuestaSim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_message_defines.svh
+Z22 FD:/QuestaSim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_phase_defines.svh
+Z23 FD:/QuestaSim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_object_defines.svh
+Z24 FD:/QuestaSim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_printer_defines.svh
+Z25 FD:/QuestaSim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_tlm_defines.svh
+Z26 FD:/QuestaSim/uvm-1.1d/../verilog_src/uvm-1.1d/src/tlm1/uvm_tlm_imps.svh
+Z27 FD:/QuestaSim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_sequence_defines.svh
+Z28 FD:/QuestaSim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_callback_defines.svh
+Z29 FD:/QuestaSim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_reg_defines.svh
+Z30 FD:/QuestaSim/uvm-1.1d/../verilog_src/uvm-1.1d/src/macros/uvm_deprecated_defines.svh
+!i122 24
+R12
+R5
+31
+R6
+R7
+R8
+!i113 0
+R9
+R10
+R1
+Yaxi4_uvm_bfm
+R11
+R2
+!i10b 1
+!s100 ?g6l:YM8cF]X[m7nzQ1S_2
+IIKzi9S]KPXlM?0V7f0DV<2
+S1
+R3
+w1776065476
+8../uvm_codes/axi4_bfm.sv
+F../uvm_codes/axi4_bfm.sv
+!i122 24
+L0 4 0
+R4
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R10
+R1
+Xaxi4_uvm_pkg
+!s115 axi4_uvm_bfm
+R11
+R13
+R14
+R2
+!i10b 1
+!s100 e=0LY0`EUggP6df8Xl:9O1
+IL0?966Gb0No]]>Y=za;mA0
+S1
+R3
+w1777094697
+8../uvm_codes/axi4_uvm_pkg.sv
+F../uvm_codes/axi4_uvm_pkg.sv
+R19
+R20
+R21
+R22
+R23
+R24
+R25
+R26
+R27
+R28
+R29
+R30
+F../uvm_codes/common_cfg_class.sv
+F../uvm_codes/axi4_sequence_items.sv
+F../uvm_codes/axi4_sequences.sv
+F../uvm_codes/axi4_sequencer.sv
+F../uvm_codes/axi4_driver.sv
+F../uvm_codes/axi4_monitor.sv
+F../uvm_codes/axi4_agent.sv
+F../uvm_codes/axi4_scoreboard.sv
+F../uvm_codes/axi4_coverage.sv
+F../uvm_codes/axi4_env.sv
+F../uvm_codes/axi4_test.sv
+!i122 24
+R12
+VL0?966Gb0No]]>Y=za;mA0
+R5
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 0
+R9
+R10
+R1

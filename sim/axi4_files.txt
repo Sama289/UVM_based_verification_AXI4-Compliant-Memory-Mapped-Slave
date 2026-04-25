@@ -1,0 +1,9 @@
+../Design_Codes/axi4.v
+../Design_Codes/axi_memory.v
+../Design_Codes/axi4.v
+../Design_Codes/axi_memory.v
+../uvm_codes/enum_package.sv
+../uvm_codes/axi4_uvm_pkg.sv
+../uvm_codes/axi4_bfm.sv
+../uvm_codes/axi4_sva.sv
+../uvm_codes/axi4_top.sv
