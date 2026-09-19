@@ -34,6 +34,16 @@ class axi4_test extends uvm_test;
         `uvm_info(get_type_name(), "Inside axi4 TEST build phase (L)", UVM_LOW)
         $display("============================================================================\n");   
     endfunction
+
+    virtual function void end_of_elaboration_phase(uvm_phase phase);
+		super.end_of_elaboration_phase(phase);
+		uvm_top.print_topology();	
+	endfunction: end_of_elaboration_phase
+
+    function void start_of_simulation_phase(uvm_phase phase);
+        `uvm_info(get_type_name(), {"start of simulation for ", get_full_name()}, UVM_HIGH);
+    endfunction : start_of_simulation_phase
+    
 endclass : axi4_test
 
 `endif
